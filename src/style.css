@@ -1,0 +1,17 @@
+body {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+#content{
+    gap: 20px;
+    display: flex;
+    width: 80vw;
+}
+.card {
+    border: 1px solid goldenrod;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+
+}
